@@ -1,0 +1,14 @@
+C:\Users\Honor\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.exe
+C:\Users\Honor\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.deps.json
+C:\Users\Honor\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.runtimeconfig.json
+C:\Users\Honor\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.dll
+C:\Users\Honor\source\repos\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\net8.0\SingletonDesignPattern.pdb
+C:\Users\Honor\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.AssemblyInfoInputs.cache
+C:\Users\Honor\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.AssemblyInfo.cs
+C:\Users\Honor\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Honor\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.dll
+C:\Users\Honor\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net8.0\refint\SingletonDesignPattern.dll
+C:\Users\Honor\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.pdb
+C:\Users\Honor\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net8.0\SingletonDesignPattern.genruntimeconfig.cache
+C:\Users\Honor\source\repos\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net8.0\ref\SingletonDesignPattern.dll
