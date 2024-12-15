@@ -1,13 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Honor\\source\\repos\\SingletonDesignPattern\\",
+  "WorkspaceRootPath": "C:\\Users\\Honor\\Desktop\\DesignPatterns\\SingletonDesignPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F69CE17-1E4A-47D3-8B00-1CECD6767C49}|SingletonDesignPattern\\SingletonDesignPattern.csproj|c:\\users\\honor\\source\\repos\\singletondesignpattern\\singletondesignpattern\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{529CCC30-CFD3-4D9C-8322-7A0669E553C0}|LazyClass\\LazyClass.csproj|c:\\users\\honor\\desktop\\designpatterns\\singletondesignpattern\\lazyclass\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529CCC30-CFD3-4D9C-8322-7A0669E553C0}|LazyClass\\LazyClass.csproj|solutionrelative:lazyclass\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529CCC30-CFD3-4D9C-8322-7A0669E553C0}|LazyClass\\LazyClass.csproj|c:\\users\\honor\\desktop\\designpatterns\\singletondesignpattern\\lazyclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529CCC30-CFD3-4D9C-8322-7A0669E553C0}|LazyClass\\LazyClass.csproj|solutionrelative:lazyclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BE14E6-2468-4846-8A4F-276C48117037}|Singleton2\\Singleton2.csproj|c:\\users\\honor\\desktop\\designpatterns\\singletondesignpattern\\singleton2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BE14E6-2468-4846-8A4F-276C48117037}|Singleton2\\Singleton2.csproj|solutionrelative:singleton2\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4BE14E6-2468-4846-8A4F-276C48117037}|Singleton2\\Singleton2.csproj|c:\\users\\honor\\desktop\\designpatterns\\singletondesignpattern\\singleton2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4BE14E6-2468-4846-8A4F-276C48117037}|Singleton2\\Singleton2.csproj|solutionrelative:singleton2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F69CE17-1E4A-47D3-8B00-1CECD6767C49}|SingletonDesignPattern\\SingletonDesignPattern.csproj|c:\\users\\honor\\desktop\\designpatterns\\singletondesignpattern\\singletondesignpattern\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F69CE17-1E4A-47D3-8B00-1CECD6767C49}|SingletonDesignPattern\\SingletonDesignPattern.csproj|solutionrelative:singletondesignpattern\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F69CE17-1E4A-47D3-8B00-1CECD6767C49}|SingletonDesignPattern\\SingletonDesignPattern.csproj|c:\\users\\honor\\source\\repos\\singletondesignpattern\\singletondesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F69CE17-1E4A-47D3-8B00-1CECD6767C49}|SingletonDesignPattern\\SingletonDesignPattern.csproj|c:\\users\\honor\\desktop\\designpatterns\\singletondesignpattern\\singletondesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F69CE17-1E4A-47D3-8B00-1CECD6767C49}|SingletonDesignPattern\\SingletonDesignPattern.csproj|solutionrelative:singletondesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,25 +47,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Camera.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\source\\repos\\SingletonDesignPattern\\SingletonDesignPattern\\Camera.cs",
-              "RelativeDocumentMoniker": "SingletonDesignPattern\\Camera.cs",
-              "ToolTip": "C:\\Users\\Honor\\source\\repos\\SingletonDesignPattern\\SingletonDesignPattern\\Camera.cs",
-              "RelativeToolTip": "SingletonDesignPattern\\Camera.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\DesignPatterns\\SingletonDesignPattern\\LazyClass\\Player.cs",
+              "RelativeDocumentMoniker": "LazyClass\\Player.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\DesignPatterns\\SingletonDesignPattern\\LazyClass\\Player.cs",
+              "RelativeToolTip": "LazyClass\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T07:36:21.288Z",
+              "WhenOpened": "2024-12-15T06:43:52.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Honor\\source\\repos\\SingletonDesignPattern\\SingletonDesignPattern\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\DesignPatterns\\SingletonDesignPattern\\LazyClass\\Program.cs",
+              "RelativeDocumentMoniker": "LazyClass\\Program.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\DesignPatterns\\SingletonDesignPattern\\LazyClass\\Program.cs",
+              "RelativeToolTip": "LazyClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T06:43:38.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\DesignPatterns\\SingletonDesignPattern\\Singleton2\\Player.cs",
+              "RelativeDocumentMoniker": "Singleton2\\Player.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\DesignPatterns\\SingletonDesignPattern\\Singleton2\\Player.cs",
+              "RelativeToolTip": "Singleton2\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T06:38:13.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\DesignPatterns\\SingletonDesignPattern\\Singleton2\\Program.cs",
+              "RelativeDocumentMoniker": "Singleton2\\Program.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\DesignPatterns\\SingletonDesignPattern\\Singleton2\\Program.cs",
+              "RelativeToolTip": "Singleton2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T06:37:53.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\DesignPatterns\\SingletonDesignPattern\\SingletonDesignPattern\\Camera.cs",
+              "RelativeDocumentMoniker": "SingletonDesignPattern\\Camera.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\DesignPatterns\\SingletonDesignPattern\\SingletonDesignPattern\\Camera.cs",
+              "RelativeToolTip": "SingletonDesignPattern\\Camera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T07:36:21.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Honor\\Desktop\\DesignPatterns\\SingletonDesignPattern\\SingletonDesignPattern\\Program.cs",
               "RelativeDocumentMoniker": "SingletonDesignPattern\\Program.cs",
-              "ToolTip": "C:\\Users\\Honor\\source\\repos\\SingletonDesignPattern\\SingletonDesignPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Honor\\Desktop\\DesignPatterns\\SingletonDesignPattern\\SingletonDesignPattern\\Program.cs",
               "RelativeToolTip": "SingletonDesignPattern\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-14T07:29:51.748Z",
               "EditorCaption": ""

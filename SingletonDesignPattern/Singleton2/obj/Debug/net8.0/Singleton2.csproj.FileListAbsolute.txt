@@ -1,0 +1,15 @@
+C:\Users\Honor\Desktop\DesignPatterns\SingletonDesignPattern\Singleton2\bin\Debug\net8.0\Singleton2.exe
+C:\Users\Honor\Desktop\DesignPatterns\SingletonDesignPattern\Singleton2\bin\Debug\net8.0\Singleton2.deps.json
+C:\Users\Honor\Desktop\DesignPatterns\SingletonDesignPattern\Singleton2\bin\Debug\net8.0\Singleton2.runtimeconfig.json
+C:\Users\Honor\Desktop\DesignPatterns\SingletonDesignPattern\Singleton2\bin\Debug\net8.0\Singleton2.dll
+C:\Users\Honor\Desktop\DesignPatterns\SingletonDesignPattern\Singleton2\bin\Debug\net8.0\Singleton2.pdb
+C:\Users\Honor\Desktop\DesignPatterns\SingletonDesignPattern\Singleton2\obj\Debug\net8.0\Singleton2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor\Desktop\DesignPatterns\SingletonDesignPattern\Singleton2\obj\Debug\net8.0\Singleton2.AssemblyInfoInputs.cache
+C:\Users\Honor\Desktop\DesignPatterns\SingletonDesignPattern\Singleton2\obj\Debug\net8.0\Singleton2.AssemblyInfo.cs
+C:\Users\Honor\Desktop\DesignPatterns\SingletonDesignPattern\Singleton2\obj\Debug\net8.0\Singleton2.csproj.CoreCompileInputs.cache
+C:\Users\Honor\Desktop\DesignPatterns\SingletonDesignPattern\Singleton2\obj\Debug\net8.0\Singleton2.sourcelink.json
+C:\Users\Honor\Desktop\DesignPatterns\SingletonDesignPattern\Singleton2\obj\Debug\net8.0\Singleton2.dll
+C:\Users\Honor\Desktop\DesignPatterns\SingletonDesignPattern\Singleton2\obj\Debug\net8.0\refint\Singleton2.dll
+C:\Users\Honor\Desktop\DesignPatterns\SingletonDesignPattern\Singleton2\obj\Debug\net8.0\Singleton2.pdb
+C:\Users\Honor\Desktop\DesignPatterns\SingletonDesignPattern\Singleton2\obj\Debug\net8.0\Singleton2.genruntimeconfig.cache
+C:\Users\Honor\Desktop\DesignPatterns\SingletonDesignPattern\Singleton2\obj\Debug\net8.0\ref\Singleton2.dll

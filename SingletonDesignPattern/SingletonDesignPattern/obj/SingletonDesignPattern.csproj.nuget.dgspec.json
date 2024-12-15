@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Honor\\source\\repos\\SingletonDesignPattern\\SingletonDesignPattern\\SingletonDesignPattern.csproj": {}
+    "C:\\Users\\Honor\\Desktop\\DesignPatterns\\SingletonDesignPattern\\SingletonDesignPattern\\SingletonDesignPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Honor\\source\\repos\\SingletonDesignPattern\\SingletonDesignPattern\\SingletonDesignPattern.csproj": {
+    "C:\\Users\\Honor\\Desktop\\DesignPatterns\\SingletonDesignPattern\\SingletonDesignPattern\\SingletonDesignPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Honor\\source\\repos\\SingletonDesignPattern\\SingletonDesignPattern\\SingletonDesignPattern.csproj",
+        "projectUniqueName": "C:\\Users\\Honor\\Desktop\\DesignPatterns\\SingletonDesignPattern\\SingletonDesignPattern\\SingletonDesignPattern.csproj",
         "projectName": "SingletonDesignPattern",
-        "projectPath": "C:\\Users\\Honor\\source\\repos\\SingletonDesignPattern\\SingletonDesignPattern\\SingletonDesignPattern.csproj",
+        "projectPath": "C:\\Users\\Honor\\Desktop\\DesignPatterns\\SingletonDesignPattern\\SingletonDesignPattern\\SingletonDesignPattern.csproj",
         "packagesPath": "C:\\Users\\Honor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Honor\\source\\repos\\SingletonDesignPattern\\SingletonDesignPattern\\obj\\",
+        "outputPath": "C:\\Users\\Honor\\Desktop\\DesignPatterns\\SingletonDesignPattern\\SingletonDesignPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Honor\\AppData\\Roaming\\NuGet\\NuGet.Config",

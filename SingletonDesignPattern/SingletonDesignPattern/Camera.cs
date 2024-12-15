@@ -2,7 +2,6 @@
 
 public class Camera
 {
-
     //LazyLoading
     public int Position { get; set; }
     public string Name { get; set; }
@@ -23,16 +22,17 @@ public class Camera
     {
         //Race Condi
         //Lock,Monitor,Mutex,Semaphore,SemaphoreSlime,ReaderWriteLock
-        lock (_instanceLock)
+
+        if (_instance is null)
         {
-            if (_instance is null)
-                _instance = new Camera();
+            lock (_instanceLock)
+            {
+                if (_instance is null)
+                    _instance = new Camera();
+            }
         }
 
-       
-        
 
         return _instance;
     }
-
 }

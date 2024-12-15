@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35219.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonDesignPattern", "SingletonDesignPattern\SingletonDesignPattern.csproj", "{5F69CE17-1E4A-47D3-8B00-1CECD6767C49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingletonDesignPattern", "SingletonDesignPattern\SingletonDesignPattern.csproj", "{5F69CE17-1E4A-47D3-8B00-1CECD6767C49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton2", "Singleton2\Singleton2.csproj", "{B4BE14E6-2468-4846-8A4F-276C48117037}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LazyClass", "LazyClass\LazyClass.csproj", "{529CCC30-CFD3-4D9C-8322-7A0669E553C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{5F69CE17-1E4A-47D3-8B00-1CECD6767C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F69CE17-1E4A-47D3-8B00-1CECD6767C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F69CE17-1E4A-47D3-8B00-1CECD6767C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4BE14E6-2468-4846-8A4F-276C48117037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BE14E6-2468-4846-8A4F-276C48117037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BE14E6-2468-4846-8A4F-276C48117037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BE14E6-2468-4846-8A4F-276C48117037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{529CCC30-CFD3-4D9C-8322-7A0669E553C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{529CCC30-CFD3-4D9C-8322-7A0669E553C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{529CCC30-CFD3-4D9C-8322-7A0669E553C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{529CCC30-CFD3-4D9C-8322-7A0669E553C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
